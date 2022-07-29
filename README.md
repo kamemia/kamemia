@@ -19,7 +19,7 @@
 ### :man_technologist: About Me :
 
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
 
 - 🔭 I’m contributing to frontend and backend in building web applications.
