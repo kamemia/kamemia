@@ -23,7 +23,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 - 🔭 I’m contributing to frontend and backend in building web applications.
-- 🌱 I’m currently learning nodejs.
+- 🌱 I’m currently learning flutter.
 - 👯 I’m looking to collaborate on open source projects and applications built on django.
 - 💬 Ask me about anything!
 - 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Kamemia-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/kamemia_)
@@ -36,19 +36,17 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" alt="python " width="40" height="40"/>&nbsp;
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" title="angular" alt="angular" width="40" height="40"/>&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="html5 " alt="html5 " width="40" height="40"/>&nbsp;
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/go-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+    
 </div>
 
 ---
