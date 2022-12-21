@@ -43,9 +43,9 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="html5 " alt="html5 " width="40" height="40"/>&nbsp;
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/go-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
     
 </div>
 
