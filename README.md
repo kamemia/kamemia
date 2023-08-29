@@ -26,7 +26,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 🌱 I’m currently learning flutter.
 - 👯 I’m looking to collaborate on open source projects and applications built on django.
 - 💬 Ask me about anything!
-- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Kamemia-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/kamemia_)
+- 📫 How to reach me: [![X Badge](https://img.shields.io/badge/-Kamemia-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/kamemia_)
 <!-- - ⚡ Fun fact: ...-->
 
 ---
