@@ -22,8 +22,8 @@
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
 
-- 🔭 I’m contributing to frontend and backend in building web applications.
-- 🌱 I’m currently learning flutter.
+- 🔭 I’m contributing to Evincy(evincy.vercel.app).
+- 🌱 I’m currently learning Next js.
 - 👯 I’m looking to collaborate on open source projects and applications built on django.
 - 💬 Ask me about anything!
 - 📫 How to reach me: [![X Badge](https://img.shields.io/badge/-Kamemia-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/kamemia_)
