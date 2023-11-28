@@ -22,7 +22,7 @@
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
 
-- 🔭 I’m contributing to Evincy(evincy.vercel.app).
+- 🔭 I’m contributing to [Evincy](https://evincy.vercel.app).
 - 🌱 I’m currently learning Next js.
 - 👯 I’m looking to collaborate on open source projects and applications built on django.
 - 💬 Ask me about anything!
