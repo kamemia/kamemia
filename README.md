@@ -23,7 +23,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 - 🔭 I’m contributing to [Evincy](https://evincy.vercel.app).
-- 🌱 I’m currently learning Next js.
+- 🌱 I’m currently learning Vue js.
 - 👯 I’m looking to collaborate on open source projects and applications built on next js.
 - 💬 Ask me about anything!
 - 📫 How to reach me: [![X Badge](https://img.shields.io/badge/-Kamemia-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/kamemia_)
@@ -46,6 +46,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+    
     
 </div>
 
